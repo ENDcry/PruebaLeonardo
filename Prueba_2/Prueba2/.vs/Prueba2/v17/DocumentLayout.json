@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\prueba2\\d_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|solutionrelative:prueba2\\d_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\prueba2\\frm_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|solutionrelative:prueba2\\frm_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|c:\\users\\pc\\desktop\\testdevbackjr\\prueba_2\\prueba2\\prueba2\\frm_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|solutionrelative:prueba2\\frm_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\prueba2\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|solutionrelative:prueba2\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\prueba2\\p_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60AF27B-2198-429A-B889-E5D243A3E29D}|Prueba2\\Prueba2.csproj|solutionrelative:prueba2\\p_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\P_Usuarios.cs",
+              "RelativeDocumentMoniker": "Prueba2\\P_Usuarios.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\P_Usuarios.cs",
+              "RelativeToolTip": "Prueba2\\P_Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:40:20.704Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\Conexion.cs",
+              "RelativeDocumentMoniker": "Prueba2\\Conexion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\Conexion.cs",
+              "RelativeToolTip": "Prueba2\\Conexion.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:00:06.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\frm_usuarios.cs",
+              "RelativeDocumentMoniker": "Prueba2\\frm_usuarios.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\frm_usuarios.cs",
+              "RelativeToolTip": "Prueba2\\frm_usuarios.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAqwI0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:23:42.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\D_Usuarios.cs",
+              "RelativeDocumentMoniker": "Prueba2\\D_Usuarios.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\D_Usuarios.cs",
+              "RelativeToolTip": "Prueba2\\D_Usuarios.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:07:37.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\frm_usuarios.cs",
+              "RelativeDocumentMoniker": "Prueba2\\frm_usuarios.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\testdevbackjr\\Prueba_2\\Prueba2\\Prueba2\\frm_usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Prueba2\\frm_usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:40:11.973Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
